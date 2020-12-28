@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine Learning and R-programming.
 - 👯 I’m looking to collaborate on any Computer Vision Projects.
 - 💬 Ask me about Statistics. But ask me easy stuff, coz it's tough for me too! 😁
-- 📫 How to reach me: ➡[Twitter - @its_Raisul](https://twitter.com/its_Raisul) , ➡[LinkedIn - raisul-islam89](https://www.linkedin.com/in/raisul-islam89/)
+- 📫 How to reach me: ➡ [Twitter](https://twitter.com/its_Raisul) , ➡ [LinkedIn](https://www.linkedin.com/in/raisul-islam89/)
 - 😄 Pronouns: He/His
 
 - ⚡ Fun fact: I never read any books about any programming language.
