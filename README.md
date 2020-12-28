@@ -1,4 +1,4 @@
-### Hey, How's it going 👋
+### Hey, How's it going. This is Raisul. 👋
 
 
 - 🔭 I’m currently working as a volunteer Jr. Machine Learning Engineer for Omdena-ACET Project.
